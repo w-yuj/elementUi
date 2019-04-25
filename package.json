@@ -5,37 +5,39 @@
       "E:\\DATA\\MoPaaS-AI-web"
     ]
   ],
-  "_from": "element-ui@2.0.10",
+  "_from": "git+https://github.com/w-yuj/elementUi.git",
   "_id": "element-ui@2.0.10",
   "_inBundle": false,
   "_integrity": "sha512-04/sRcdIHS4dn/0imgynfIN+ixKmcDDAui0RgJ/HdyoUWt56+fPwLZXB4QqTrNPEKTZnZZqCvNY8BZ/Vn6AEyA==",
   "_location": "/element-ui",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "element-ui@2.0.10",
+    "type": "git",
+    "raw": "element-ui@git+https://github.com/w-yuj/elementUi.git",
     "name": "element-ui",
     "escapedName": "element-ui",
-    "rawSpec": "2.0.10",
-    "saveSpec": null,
-    "fetchSpec": "2.0.10"
+    "rawSpec": "git+https://github.com/w-yuj/elementUi.git",
+    "saveSpec": "git+https://github.com/w-yuj/elementUi.git",
+    "fetchSpec": "https://github.com/w-yuj/elementUi.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/element-ui/-/element-ui-2.0.10.tgz",
-  "_spec": "2.0.10",
+  "_resolved": "git+https://github.com/w-yuj/elementUi.git#c73168de1a3f413200b8f666fad5a5f712c94d43",
+  "_spec": "element-ui@git+https://github.com/w-yuj/elementUi.git",
   "_where": "E:\\DATA\\MoPaaS-AI-web",
   "bugs": {
     "url": "https://github.com/ElemeFE/element/issues"
   },
+  "bundleDependencies": false,
   "dependencies": {
     "async-validator": "~1.8.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.0",
     "deepmerge": "^1.2.0",
     "throttle-debounce": "^1.0.1"
   },
+  "deprecated": false,
   "description": "A Component Library for Vue.js.",
   "devDependencies": {
     "algoliasearch": "^3.24.5",
