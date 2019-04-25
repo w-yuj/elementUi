@@ -1,5 +1,6 @@
 {
-    "_args": [
+    "author": "xxx",
+	"_args": [
         [
             "element-ui@2.0.10",
             "E:\\DATA\\MoPaaS-AI-web"
